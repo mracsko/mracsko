@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me [@BalazsMracsko](https://twitter.com/BalazsMracsko)
 
+My personal website: [mracsko.com](https://mracsko.com/)
+
 ![codewars.com](https://www.codewars.com/users/mracsko/badges/small)
 
 <!---
